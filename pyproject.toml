@@ -1,0 +1,9 @@
+[project]
+name = "learnflow"
+version = "1.0.0"
+description = "LearnFlow — Learning Management System Core Backend"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
