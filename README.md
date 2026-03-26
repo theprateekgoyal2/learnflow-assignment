@@ -5,6 +5,11 @@ A Learning Management System backend built with Python, FastAPI, and SQLAlchemy,
 ## Quick Start
 
 ```bash
+# Create and activate a virtual environment
+python3 -m venv venv
+source venv/bin/activate        # macOS/Linux
+# venv\Scripts\activate         # Windows
+
 # Install dependencies
 pip install -r requirements.txt
 
